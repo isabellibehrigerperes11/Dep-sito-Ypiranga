@@ -1,0 +1,34 @@
+<section class="hero">
+
+    <div class="hero-content">
+
+        <span class="empresa">
+            Desde 1998 • Alto Paraná - PR
+        </span>
+
+        <h1>
+            Materiais para Construção e
+            Agronegócio
+        </h1>
+
+        <p>
+            Qualidade, confiança e entrega rápida.
+            Trabalhamos com areia, pedras, britas,
+            calcário, gesso agrícola e muito mais.
+        </p>
+
+        <div class="hero-buttons">
+
+            <a href="produtos.html" class="btn-primary">
+                Ver Produtos
+            </a>
+
+            <a href="contato.html" class="btn-secondary">
+                Solicitar Orçamento
+            </a>
+
+        </div>
+
+    </div>
+
+</section>
