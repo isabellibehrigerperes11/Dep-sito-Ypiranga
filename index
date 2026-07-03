@@ -1,0 +1,32 @@
+deposito-ypiranga/
+│
+├── index.html
+├── produtos.html
+├── sobre.html
+├── contato.html
+│
+├── assets/
+│   ├── css/
+│   │   ├── style.css
+│   │   ├── responsive.css
+│   │   └── animations.css
+│   │
+│   ├── js/
+│   │   ├── script.js
+│   │   ├── menu.js
+│   │   └── animations.js
+│   │
+│   ├── img/
+│   │   ├── logo.png
+│   │   ├── fachada.jpg
+│   │   ├── produtos/
+│   │   ├── banners/
+│   │   ├── equipe/
+│   │   └── icons/
+│   │
+│   └── fonts/
+│
+├── favicon.ico
+├── robots.txt
+├── sitemap.xml
+└── README.md
