@@ -1,0 +1,60 @@
+<header class="header" id="header">
+    <div class="container nav">
+        <a href="index.html" class="logo">
+            <img src="assets/img/logo.png" alt="Depósito Ypiranga">
+        </a>
+
+        <nav>
+            <ul class="menu">
+                <li><a href="index.html">Início</a></li>
+                <li><a href="produtos.html">Produtos</a></li>
+                <li><a href="sobre.html">Sobre</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </nav>
+
+        <a href="contato.html" class="btn-header">
+            Solicitar orçamento
+        </a>
+
+        <div class="menu-mobile">
+            ☰
+        </div>
+    </div>
+</header>
+
+<section class="hero">
+
+    <div class="hero-content">
+
+        <span class="tag">
+            Qualidade • Confiança • Tradição
+        </span>
+
+        <h1>
+            Tudo para sua construção em um só lugar.
+        </h1>
+
+        <p>
+            O Depósito Ypiranga oferece materiais de construção, acabamento e atendimento especializado para ajudar você em cada etapa da sua obra.
+        </p>
+
+        <div class="hero-buttons">
+
+            <a href="produtos.html" class="btn-primary">
+                Ver produtos
+            </a>
+
+            <a href="contato.html" class="btn-secondary">
+                Solicitar orçamento
+            </a>
+
+        </div>
+
+    </div>
+
+    <div class="hero-image">
+        <img src="assets/img/fachada.jpg" alt="Depósito Ypiranga">
+    </div>
+
+</section>
