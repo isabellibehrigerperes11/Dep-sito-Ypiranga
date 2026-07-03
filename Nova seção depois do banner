@@ -1,0 +1,33 @@
+<section class="vantagens">
+
+    <h2>Por que escolher o Depósito Ypiranga?</h2>
+
+    <div class="cards-vantagens">
+
+        <div class="card">
+            🚛
+            <h3>Entrega Rápida</h3>
+            <p>Levamos seu material com segurança e agilidade.</p>
+        </div>
+
+        <div class="card">
+            🪨
+            <h3>Produtos de Qualidade</h3>
+            <p>Selecionamos materiais de excelente procedência.</p>
+        </div>
+
+        <div class="card">
+            🤝
+            <h3>Atendimento Especializado</h3>
+            <p>Equipe pronta para ajudar na escolha do material ideal.</p>
+        </div>
+
+        <div class="card">
+            🌱
+            <h3>Agronegócio</h3>
+            <p>Calcários e gesso agrícola para maior produtividade.</p>
+        </div>
+
+    </div>
+
+</section>
