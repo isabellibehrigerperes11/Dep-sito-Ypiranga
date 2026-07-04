@@ -3,25 +3,25 @@ Deposito-Ypiranga/
 ├── assets/
 │   ├── images/
 │   │
-│   ├── pedra-graduada.jpg
-│   ├── pedra-meia.jpg
-│   ├── pedra-1.jpg
-│   ├── pedrisco.jpg
-│   ├── cal-dolomitico.jpg
-│   ├── cal-calcitico.jpg
-│   ├── gesso.jpg
-│   ├── areia-fina.jpg
-│   ├── areia-media.jpg
-│   └── areia-grossa.jpg
-pedra-graduada.jpg
-pedra-meia.jpg
-pedrisco.jpg
-cal-dolomitico.jpg
-cal-calcitico.jpg
-gesso.jpg
-areia-fina.jpg
-areia-media.jpg
-areia-grossa.jpg
+│   ├── pedra-graduada.png
+│   ├── pedra-meia.png
+│   ├── pedra-1.png
+│   ├── pedrisco.png
+│   ├── cal-dolomitico.png
+│   ├── cal-calcitico.png
+│   ├── gesso.png
+│   ├── areia-fina.png
+│   ├── areia-media.png
+│   └── areia-grossa.png
+pedra-graduada.png
+pedra-meia.png
+pedrisco.png
+cal-dolomitico.png
+cal-calcitico.png
+gesso.png
+areia-fina.png
+areia-media.png
+areia-grossa.png
 Deposito-Ypiranga/
 │
 ├── index.html
@@ -34,14 +34,14 @@ Deposito-Ypiranga/
     │   └── style.css
     │
     ├── images/
-    │   ├── pedra-graduada.jpg
-    │   ├── pedra-meia.jpg
-    │   ├── pedrisco.jpg
-    │   ├── cal-dolomitico.jpg
-    │   ├── cal-calcitico.jpg
-    │   ├── gesso.jpg
-    │   ├── areia-fina.jpg
-    │   ├── areia-media.jpg
-    │   └── areia-grossa.jpg
+    │   ├── pedra-graduada.png
+    │   ├── pedra-meia.png
+    │   ├── pedrisco.png
+    │   ├── cal-dolomitico.png
+    │   ├── cal-calcitico.png
+    │   ├── gesso.png
+    │   ├── areia-fina.png
+    │   ├── areia-media.png
+    │   └── areia-grossa.png
     │
     └── js/
