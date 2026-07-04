@@ -13,3 +13,35 @@ Deposito-Ypiranga/
 │   ├── areia-fina.jpg
 │   ├── areia-media.jpg
 │   └── areia-grossa.jpg
+pedra-graduada.jpg
+pedra-meia.jpg
+pedrisco.jpg
+cal-dolomitico.jpg
+cal-calcitico.jpg
+gesso.jpg
+areia-fina.jpg
+areia-media.jpg
+areia-grossa.jpg
+Deposito-Ypiranga/
+│
+├── index.html
+├── produtos.html
+├── sobre.html
+├── contato.html
+│
+└── assets/
+    ├── css/
+    │   └── style.css
+    │
+    ├── images/
+    │   ├── pedra-graduada.jpg
+    │   ├── pedra-meia.jpg
+    │   ├── pedrisco.jpg
+    │   ├── cal-dolomitico.jpg
+    │   ├── cal-calcitico.jpg
+    │   ├── gesso.jpg
+    │   ├── areia-fina.jpg
+    │   ├── areia-media.jpg
+    │   └── areia-grossa.jpg
+    │
+    └── js/
