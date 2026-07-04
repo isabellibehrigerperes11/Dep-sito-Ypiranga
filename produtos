@@ -10,53 +10,63 @@
 
             <div class="produto">
                 <img src="assets/img/produtos/areia-fina.png" alt="Areia Fina">
-                <h3>Areia Fina</h3>
+                <h3>Areia Fina</h3>Areia Fina
+Ideal para reboco e acabamento.
             </div>
 
             <div class="produto">
                 <img src="assets/img/produtos/areia-media.png" alt="Areia Média">
-                <h3>Areia Média</h3>
+                <h3>Areia Média</h3>Areia Média
+Excelente para concreto e alvenaria.
             </div>
 
             <div class="produto">
                 <img src="assets/img/produtos/areia-grossa.png" alt="Areia Grossa">
-                <h3>Areia Grossa</h3>
+                <h3>Areia Grossa</h3>Areia Grossa
+Indicada para fundações e concreto estrutural.
             </div>
 
             <div class="produto">
                 <img src="assets/img/produtos/pedrisco.png" alt="Pedrisco">
                 <h3>Pedrisco</h3>
-            </div>
+            </div>Pedrisco
+Ideal para fabricação de concreto e blocos.
 
             <div class="produto">
                 <img src="assets/img/produtos/po-de-pedra.png" alt="Pó de Pedra">
                 <h3>Pó de Pedra</h3>
-            </div>
+            </div>Pó de Pedra
+Excelente para nivelamento e pavimentação.
 
             <div class="produto">
                 <img src="assets/img/produtos/brita-0.png" alt="Brita 0">
                 <h3>Brita 0</h3>
-            </div>
+            </div>Brita 0
+Perfeita para acabamentos e concretos finos.
 
             <div class="produto">
                 <img src="assets/img/produtos/brita-1.png" alt="Brita 1">
-                <h3>Brita 1</h3>
+                <h3>Brita 1</h3>Brita 1
+A mais utilizada na construção civil.
             </div>
 
             <div class="produto">
                 <img src="assets/img/produtos/brita-2.png" alt="Brita 2">
                 <h3>Brita 2</h3>
-            </div>
+            </div>Brita 2
+Indicada para concretos de grande resistência.
 
             <div class="produto">
                 <img src="assets/img/produtos/rachao.png" alt="Rachão">
                 <h3>Rachão</h3>
-            </div>
+            </div>Rachão
+Utilizado em drenagem e grandes fundações.
 
             <div class="produto">
                 <img src="assets/img/produtos/pedra-graduada.png" alt="Pedra Graduada">
                 <h3>Pedra Graduada</h3>
-            </div>
+            </div>Pedra Graduada
+Indicada para pavimentação e obras de infraestrutura.
 
         </div>
 
