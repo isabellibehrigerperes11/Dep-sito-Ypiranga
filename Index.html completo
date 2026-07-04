@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Depósito Ypiranga | Areia, Pedra, Brita e Calcário em Alto Paraná - PR</title>
+
+    <meta name="description"
+        content="Depósito Ypiranga - Qualidade em areia, pedra, brita, calcário e gesso agrícola. Atendimento em Alto Paraná e toda a região.">
+
+    <meta name="keywords"
+        content="Depósito Ypiranga, areia, pedra, brita, pedrisco, calcário, gesso agrícola, Alto Paraná">
+
+    <meta name="author" content="Depósito Ypiranga">
+
+    <link rel="icon" href="favicon.ico">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+
+    <!-- CSS -->
+
+    <link rel="stylesheet" href="assets/css/style.css">
+
+    <link rel="stylesheet" href="assets/css/responsive.css">
+
+    <link rel="stylesheet" href="assets/css/animations.css">
+
+</head>
+
+<body>
+
+<header>
+
+    <div class="container">
+
+        <a href="index.html" class="logo">
+
+            <img src="assets/img/logo/logo.png" alt="Depósito Ypiranga">
+
+        </a>
+
+        <nav>
+
+            <ul>
+
+                <li><a href="index.html" class="active">Início</a></li>
+
+                <li><a href="produtos.html">Produtos</a></li>
+
+                <li><a href="sobre.html">Sobre</a></li>
+
+                <li><a href="contato.html">Contato</a></li>
+
+            </ul>
+
+        </nav>
+
+        <a class="btn-header"
+            href="https://wa.me/554434473610"
+            target="_blank">
+
+            Solicitar orçamento
+
+        </a>
+
+    </div>
+
+</header>
+
+<section class="hero">
+
+    <div class="overlay"></div>
+
+    <div class="container hero-content">
+
+        <span>Desde 1988</span>
+
+        <h1>
+
+            Materiais de qualidade para sua obra começar do jeito certo.
+
+        </h1>
+
+        <p>
+
+            Trabalhamos com areia, pedra, brita, pedrisco, calcário e gesso agrícola,
+            oferecendo confiança, tradição e atendimento de excelência.
+
+        </p>
+
+        <div class="hero-buttons">
+
+            <a href="produtos.html" class="btn-primary">
+
+                Ver Produtos
+
+            </a>
+
+            <a href="https://wa.me/554434473610"
+                target="_blank"
+                class="btn-secondary">
+
+                Falar no WhatsApp
+
+            </a>
+
+        </div>
+
+    </div><!-- DIFERENCIAIS -->
+
+<section class="vantagens hidden">
+
+    <div class="container">
+
+        <div class="titulo-secao">
+
+            <span>Por que escolher o Depósito Ypiranga?</span>
+
+            <h2>Qualidade, tradição e compromisso.</h2>
+
+        </div>
+
+        <div class="cards-vantagens">
+
+            <div class="card-vantagem">
+
+                <div class="icone">🚚</div>
+
+                <h3>Entrega Rápida</h3>
+
+                <p>Atendimento ágil para Alto Paraná e toda a região.</p>
+
+            </div>
+
+            <div class="card-vantagem">
+
+                <div class="icone">🏗️</div>
+
+                <h3>Produtos de Qualidade</h3>
+
+                <p>Areia, pedra, brita, calcário e gesso agrícola selecionados.</p>
+
+            </div>
+
+            <div class="card-vantagem">
+
+                <div class="icone">🤝</div>
+
+                <h3>Confiança</h3>
+
+                <p>Anos de tradição oferecendo segurança e bom atendimento.</p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- NÚMEROS -->
+
+<section class="numeros hidden">
+
+    <div class="container numeros-grid">
+
+        <div class="numero">
+
+            <h2>+35</h2>
+
+            <p>Anos de experiência</p>
+
+        </div>
+
+        <div class="numero">
+
+            <h2>1000+</h2>
+
+            <p>Clientes atendidos</p>
+
+        </div>
+
+        <div class="numero">
+
+            <h2>100%</h2>
+
+            <p>Compromisso com qualidade</p>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- PRODUTOS -->
+
+<section class="produtos-home hidden">
+
+    <div class="container">
+
+        <div class="titulo-secao">
+
+            <span>Nossos Produtos</span>
+
+            <h2>Materiais para construção e agricultura.</h2>
+
+        </div>
+
+        <div class="cards-produtos">
+
+            <div class="produto">
+
+                <img src="assets/img/produtos/areia-fina.jpg" alt="Areia Fina">
+
+                <h3>Areia</h3>
+
+                <p>Fina, média e grossa.</p>
+
+            </div>
+
+            <div class="produto">
+
+                <img src="assets/img/produtos/pedra1.jpg" alt="Pedra">
+
+                <h3>Pedras</h3>
+
+                <p>Graduada, 1/2 e Pedra 1.</p>
+
+            </div>
+
+            <div class="produto">
+
+                <img src="assets/img/produtos/calcario.jpg" alt="Calcário">
+
+                <h3>Calcário</h3>
+
+                <p>Dolomítico e Calcítico.</p>
+
+            </div>
+
+        </div>
+
+        <div class="centro">
+
+            <a href="produtos.html" class="btn-primary">
+
+                Ver Catálogo Completo
+
+            </a>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- SOBRE -->
+
+<section class="sobre-home hidden">
+
+    <div class="container sobre-grid">
+
+        <div>
+
+            <span>Quem Somos</span>
+
+            <h2>Mais de três décadas construindo confiança.</h2>
+
+            <p>
+
+                O Depósito Ypiranga atua no fornecimento de materiais para construção
+                e produtos agrícolas, oferecendo atendimento de qualidade,
+                compromisso com o cliente e produtos confiáveis.
+
+            </p>
+
+            <a href="sobre.html" class="btn-primary">
+
+                Conheça nossa história
+
+            </a>
+
+        </div>
+
+        <div>
+
+            <img src="assets/img/banner/banner.jpg" alt="Depósito Ypiranga">
+
+        </div>
+
+    </div>
+
+</section>
+
+</section>
+<!-- CHAMADA PARA ORÇAMENTO -->
+
+<section class="cta hidden">
+
+    <div class="container">
+
+        <h2>Solicite seu orçamento agora mesmo.</h2>
+
+        <p>
+            Nossa equipe está pronta para atender você e encontrar a melhor solução para sua obra ou propriedade rural.
+        </p>
+
+        <a href="https://wa.me/554434473610" target="_blank" class="btn-primary">
+            Pedir orçamento pelo WhatsApp
+        </a>
+
+    </div>
+
+</section>
+
+<!-- RODAPÉ -->
+
+<footer>
+
+    <div class="container footer-grid">
+
+        <div>
+
+            <h3>Depósito Ypiranga</h3>
+
+            <p>
+                Há mais de três décadas oferecendo materiais de qualidade,
+                atendimento de confiança e compromisso com cada cliente.
+            </p>
+
+        </div>
+
+        <div>
+
+            <h3>Contato</h3>
+
+            <p>(44) 3447-3610</p>
+            <p>behringer_peres@hotmail.com</p>
+            <p>Rua Estados Unidos, 3816</p>
+            <p>Centro - Alto Paraná - PR</p>
+
+        </div>
+
+        <div>
+
+            <h3>Horário</h3>
+
+            <p>Segunda a Sexta</p>
+            <p>07:30 às 18:00</p>
+
+            <br>
+
+            <p>Sábado</p>
+            <p>07:30 às 11:30</p>
+
+            <br>
+
+            <p>Domingo</p>
+            <p>Fechado</p>
+
+        </div>
+
+    </div>
+
+    <div class="copyright">
+
+        © 2026 Depósito Ypiranga - Todos os direitos reservados.
+
+    </div>
+
+</footer>
+
+<!-- BOTÃO WHATSAPP -->
+
+<a href="https://wa.me/554434473610"
+   class="whatsapp"
+   target="_blank"
+   aria-label="WhatsApp">
+
+    💬
+
+</a>
+
+<!-- BOTÃO VOLTAR AO TOPO -->
+
+<button id="backToTop" aria-label="Voltar ao topo">
+
+    ↑
+
+</button>
+
+<!-- JAVASCRIPT -->
+
+<script src="assets/js/main.js"></script>
+
+<script src="assets/js/animations.js"></script>
+
+</body>
+
+</html>
