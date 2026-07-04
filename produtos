@@ -1,13 +1,64 @@
-assets/
-└── img/
-    └── produtos/
-        pedra-graduada.jpg
-        pedra-1-2.jpg
-        pedra-1.jpg
-        pedrisco.jpg
-        calcario-dolomitico.jpg
-        calcario-calcitico.jpg
-        gesso.jpg
-        areia-fina.jpg
-        areia-media.jpg
-        areia-grossa.jpg
+<section class="produtos-home" id="produtos">
+    <div class="container">
+
+        <div class="titulo-secao">
+            <span>Produtos</span>
+            <h2>Materiais disponíveis</h2>
+        </div>
+
+        <div class="cards-produtos">
+
+            <div class="produto">
+                <img src="assets/img/produtos/areia-fina.png" alt="Areia Fina">
+                <h3>Areia Fina</h3>
+            </div>
+
+            <div class="produto">
+                <img src="assets/img/produtos/areia-media.png" alt="Areia Média">
+                <h3>Areia Média</h3>
+            </div>
+
+            <div class="produto">
+                <img src="assets/img/produtos/areia-grossa.png" alt="Areia Grossa">
+                <h3>Areia Grossa</h3>
+            </div>
+
+            <div class="produto">
+                <img src="assets/img/produtos/pedrisco.png" alt="Pedrisco">
+                <h3>Pedrisco</h3>
+            </div>
+
+            <div class="produto">
+                <img src="assets/img/produtos/po-de-pedra.png" alt="Pó de Pedra">
+                <h3>Pó de Pedra</h3>
+            </div>
+
+            <div class="produto">
+                <img src="assets/img/produtos/brita-0.png" alt="Brita 0">
+                <h3>Brita 0</h3>
+            </div>
+
+            <div class="produto">
+                <img src="assets/img/produtos/brita-1.png" alt="Brita 1">
+                <h3>Brita 1</h3>
+            </div>
+
+            <div class="produto">
+                <img src="assets/img/produtos/brita-2.png" alt="Brita 2">
+                <h3>Brita 2</h3>
+            </div>
+
+            <div class="produto">
+                <img src="assets/img/produtos/rachao.png" alt="Rachão">
+                <h3>Rachão</h3>
+            </div>
+
+            <div class="produto">
+                <img src="assets/img/produtos/pedra-graduada.png" alt="Pedra Graduada">
+                <h3>Pedra Graduada</h3>
+            </div>
+
+        </div>
+
+    </div>
+</section>
